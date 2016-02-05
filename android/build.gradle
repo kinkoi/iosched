@@ -182,6 +182,7 @@ dependencies {
 
     // Needed to implement the IdlingResource interface on certain async models.
     compile 'com.android.support.test.espresso:espresso-idling-resource:2.0'
+    testCompile 'com.android.support.test.espresso:espresso-idling-resource:2.2.1'
 
     compile 'com.google.guava:guava:18.0'
 }
